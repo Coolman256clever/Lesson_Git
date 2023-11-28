@@ -1,0 +1,23 @@
+GitHub/Home works/*
+!GitHub/Home works/"Hello, World!.py"
+.git/
+temp/
+*.log
+.vscode
+.idea
+__pycache__
+*.suo
+*.user
+*.sln
+bin/
+obj/
+venv
+.env
+node_models/
+vendor/
+.protect
+.classpath
+*.png
+*.jpg
+*.gif
+
